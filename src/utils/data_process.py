@@ -55,4 +55,4 @@ class Data_process(object):
                 return None
         except Exception as e:
             raise Exception(
-                e, 409, '', {"message": "database query conflict"})
+                e, 409, '', {"message": "Error : database query conflict"})

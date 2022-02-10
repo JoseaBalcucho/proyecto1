@@ -16,7 +16,7 @@ if __name__ == '__main__':
         help='Id Pelicula')
     parser.add_argument(
         '--date',
-        help='Fecha a reprocesar')
+        help='Fecha reproceso')
 
     args = parser.parse_args()
 

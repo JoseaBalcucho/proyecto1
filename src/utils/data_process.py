@@ -42,7 +42,7 @@ class Data_process(object):
 
     def get_id(self, id):
         
-        sql = """SELECT movieid, title, genres, camponew
+        sql = """SELECT movieid, title, genres, camponew1
         FROM u227062265_bigdata.movies
         WHERE movieid = '{}' """.format(id)
         print(sql)

@@ -19,8 +19,8 @@ class Files_process(object):
 
         self.config = config
 
-    def get_file(self, filename):
-        print('Inicio descarga archivo')
+    def get_file(self, filename): 
+        print('Inicio descarga archivoS')
         url = self.config.get('settings', 'file_url')
         ext = "." + self.config.get('settings', 'ext')
         r = requests.get(url)

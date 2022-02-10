@@ -1,0 +1,3 @@
+[{'movieid': 10, 'title': 'GoldenEye (1995)', 'genres': 'Action|Adventure|Thriller'}]
+[{'movieid': 10, 'title': 'GoldenEye (1995)', 'genres': 'Action|Adventure|Thriller'}]
+[{'movieid': 10, 'title': 'GoldenEye (1995)', 'genres': 'Action|Adventure|Thriller'}]

@@ -1,0 +1,12 @@
+[settings]
+file_url=https://raw.githubusercontent.com/nchah/movielens-recommender/master/data/ml-movies.csv
+ext=csv
+
+[mysql]
+db_host=xx.xx.xx.xxx
+db_name=database
+db_user=user
+db_pass=pass
+db_port=3306
+db_url=mysql+mysqldb://{db_user}:{db_pass}@{db_host}/{db_name}
+
